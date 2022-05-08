@@ -1,14 +1,14 @@
 {
-  "main.css": "/phone-directory/static/css/main.1300ef16.chunk.css",
-  "main.js": "/phone-directory/static/js/main.c9811c1c.chunk.js",
-  "main.js.map": "/phone-directory/static/js/main.c9811c1c.chunk.js.map",
-  "static/js/1.3ef67bd8.chunk.js": "/phone-directory/static/js/1.3ef67bd8.chunk.js",
-  "static/js/1.3ef67bd8.chunk.js.map": "/phone-directory/static/js/1.3ef67bd8.chunk.js.map",
-  "runtime~main.js": "/phone-directory/static/js/runtime~main.44257a07.js",
-  "runtime~main.js.map": "/phone-directory/static/js/runtime~main.44257a07.js.map",
-  "static/media/index.css": "/phone-directory/static/media/person-add.30f4127c.svg",
-  "static/css/main.1300ef16.chunk.css.map": "/phone-directory/static/css/main.1300ef16.chunk.css.map",
-  "index.html": "/phone-directory/index.html",
-  "precache-manifest.c435af36940a93883d455c38ff2ed8b1.js": "/phone-directory/precache-manifest.c435af36940a93883d455c38ff2ed8b1.js",
-  "service-worker.js": "/phone-directory/service-worker.js"
+  "main.css": "phone-directory/static/css/main.1300ef16.chunk.css",
+  "main.js": "phone-directory/static/js/main.c9811c1c.chunk.js",
+  "main.js.map": "phone-directory/static/js/main.c9811c1c.chunk.js.map",
+  "static/js/1.3ef67bd8.chunk.js": "phone-directory/static/js/1.3ef67bd8.chunk.js",
+  "static/js/1.3ef67bd8.chunk.js.map": "phone-directory/static/js/1.3ef67bd8.chunk.js.map",
+  "runtime~main.js": "phone-directory/static/js/runtime~main.44257a07.js",
+  "runtime~main.js.map": "phone-directory/static/js/runtime~main.44257a07.js.map",
+  "static/media/index.css": "phone-directory/static/media/person-add.30f4127c.svg",
+  "static/css/main.1300ef16.chunk.css.map": "phone-directory/static/css/main.1300ef16.chunk.css.map",
+  "index.html": "phone-directory/index.html",
+  "precache-manifest.c435af36940a93883d455c38ff2ed8b1.js": "phone-directory/precache-manifest.c435af36940a93883d455c38ff2ed8b1.js",
+  "service-worker.js": "phone-directory/service-worker.js"
 }
