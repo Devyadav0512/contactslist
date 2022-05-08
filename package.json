@@ -1,0 +1,33 @@
+{
+  "name": "contacts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "escape-string-regexp": "^1.0.5",
+    "form-serialize": "^0.7.2",
+    "gh-pages": "^3.1.0",
+    "prop-types": "^15.5.10",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-router-dom": "^4.1.1",
+    "sort-by": "^0.0.2"
+  },
+  "devDependencies": {
+    "react-scripts": "^2.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://devyadav0512.github.io/phone-directory/",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
